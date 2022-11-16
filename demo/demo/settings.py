@@ -51,7 +51,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'demo.urls'
-AUTH_USER_MODEL = 'app1.User'
+# AUTH_USER_MODEL = 'app1.User'
 
 TEMPLATES = [
     {
